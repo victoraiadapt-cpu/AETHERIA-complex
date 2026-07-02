@@ -1,0 +1,12 @@
+{
+  "name": "aetheria-desktop",
+  "version": "1.0.0",
+  "private": true,
+  "main": "electron/main.cjs",
+  "scripts": {
+    "start": "electron electron/main.cjs"
+  },
+  "dependencies": {
+    "electron": "^42.0.0"
+  }
+}
